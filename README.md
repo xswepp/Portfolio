@@ -7,3 +7,7 @@
 | 1. | [Улучшение процесса обогащения золота](___) | Выбор лучшей модели для увеличения <br/>показателей технологического процесса <br/>обогащения золота | python, pandas, numpy, scipy, sklearn, matplotlib       |
 | 2. | [Прогноз количества заказов для сервиса такси](___) | Прогноз количества заказов в аэропортах <br/>для сервиса такси с целью более точного планирования количества доступных <br/>автомобилей | python, pandas, numpy, statsmodels, sklearn, CatBoost, matplotlib |
 | 3. | [Анализ текстов](___) | Анализ комментариев пользователей на токсичность             | python, pandas, numpy, nltk, sklearn, CatBoost |
+
+| #  | Наименование проекта | Описание | Стек |
+| -- | -------------------- | -------- | ---- |
+| 1. | [Система оценки рисков ДТП](https://github.com/xswepp/Portfolio/blob/main/Accident%20risk%20assessment%20system/Accident%20risk%20assessment%20system.ipynb) | Cоздание системы для оценки вероятности получения повреждений транспортного средства по выбранному маршруту движения | pandas, numpy, seaborn, plotly, sklearn, category_encoders, phik, optuna, xgboost, catboost, lightgbm, torch, scipy, association_metrics, shap |
