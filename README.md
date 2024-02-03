@@ -11,4 +11,4 @@
 
 | #  | Наименование проекта | Описание | Стек |
 | -- | -------------------- | -------- | ---- |
-| 1. | [Система оценки рисков ДТП](https://github.com/xswepp/Portfolio/tree/main/Accident%20risk%20assessment%20system) | Cоздание системы для оценки вероятности получения повреждений транспортного средства по выбранному маршруту движения | pandas, numpy, seaborn, plotly, sklearn, category_encoders, phik, optuna, xgboost, catboost, lightgbm, torch, scipy, association_metrics, shap |
+| 1. | [Разработка системы предупреждения аварий на каршеринге](https://github.com/xswepp/Portfolio/tree/main/Accident%20risk%20assessment%20system) | Построение системы предупреждения об аварии клиентам каршеринга | pandas, numpy, seaborn, plotly, sklearn, category_encoders, phik, optuna, xgboost, catboost, lightgbm, torch, scipy, association_metrics, shap |
