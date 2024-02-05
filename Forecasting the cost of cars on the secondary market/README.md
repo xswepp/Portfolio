@@ -41,7 +41,7 @@ pandas, numpy, seaborn, plotly, sklearn, category_encoders, phik, optuna, reques
     - Private Score = 12.3605
     - Public Score = 11.95535
 
-    Занято второеместо в списке зачёта.
+    Занято второе место в списке зачёта.
     ```
     https://www.kaggle.com/competitions/used-cars-price-prediction-21ds/leaderboard
     ```
