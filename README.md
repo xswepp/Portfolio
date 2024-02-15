@@ -13,3 +13,7 @@
 | -- | -------------------- | -------- | ---- |
 | 1. | [Разработка системы предупреждения аварий на каршеринге](https://github.com/xswepp/Portfolio/tree/main/Accident%20risk%20assessment%20system) | Построение системы предупреждения об аварии клиентам каршеринга | pandas, numpy, seaborn, plotly, sklearn, category_encoders, phik, optuna, xgboost, catboost, lightgbm, torch, scipy, association_metrics, shap |
 | 2. | [Прогнозирование количества заказов такси на следующий час](https://github.com/xswepp/Portfolio/tree/main/Forecasting%20taxi%20orders) | Разработка системы предсказания объема заказа | pandas, numpy, seaborn, plotly, sklearn, ategory_encoders, optuna, xgboost, etna, statsmodels |
+| 3. | [Обучение модели классификации комментариев](https://github.com/xswepp/Portfolio/tree/main/Learning%20the%20comment%20classification%20model) | Обучение модели классификации комментариев | pandas, numpy, seaborn, plotly, sklearn, nltk, optuna, xgboost, catboost |
+
+
+
